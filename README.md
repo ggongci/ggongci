@@ -118,5 +118,7 @@ AI 추천 시스템 개발자 (개인화 추천 및 데이터 기반 알고리�
 ## GitHub Repository 정보
 
 - GitHub 주소: https://github.com/ggongci/ggongci
+- (ggongci.github.io) GItHub 주소 : https://github.com/ggongci/ggongci.github.io
+- ggongci.github.io 저장소의 홈페이지 주소 https://ggongci.github.io/
 
 ---
